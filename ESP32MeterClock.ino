@@ -8,8 +8,9 @@
 TFT_eSPI tft = TFT_eSPI();
 TFT_eSprite sprite = TFT_eSprite(&tft);
 
-const char* ssid = "xxxxxxxx";
-const char* pass = "xxxxxxxx";
+#include "my_pw.h"
+// const char* ssid = "xxxxxxxx";
+// const char* pass = "xxxxxxxx";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = (-6 * 3600);  //time zone * 3600
