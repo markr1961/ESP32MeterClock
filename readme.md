@@ -12,6 +12,8 @@ https://www.reddit.com/r/esp32/comments/ws6n4u/unknown_schematic_for_esp322432s0
 The basic graphical design was forked from VolosR' TDisplayS2MeterClock https://github.com/VolosR/TDisplayS3MeterClock
 His repo has lots of helpful projects based on the LilyGo series of ESP32 boards. He also has an active YouTube channel with lots of projects. You should check him out.
 
+A collection of HW docs can be found at https://github.com/markr1961/_ESP32_dev_board_docs in the ESP32-2432S028 folder.
+
 Arduino info
 Board manager:  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 Library:        TFT_sSPI
